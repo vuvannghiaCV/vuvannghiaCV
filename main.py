@@ -4,7 +4,7 @@
 
 data = [
 
-    ("tokyonight", "einvoice-system"),
+    ("merko", "einvoice-system"),
     ("highcontrast", "user-manager"),
     ("dark", "api-gateway"),
     ("radical", "vuvannghiaCV"),
@@ -16,7 +16,7 @@ data = [
     # (" ", "cv-contact-manager"),
     # # (" ", "nghia-oop-adapter-round-square"),
     # ("", "nghia-contact-manager"),
-    # ("merko", "nghia-crawl-data-scrapy-topcv-crawler"),
+    # ("", "nghia-crawl-data-scrapy-topcv-crawler"),
 
 
     # TODO rảnh thì xóa github sau
