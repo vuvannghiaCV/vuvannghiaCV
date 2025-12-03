@@ -4,7 +4,7 @@
 
 data = [
 
-    ("merko", "einvoice-system"),
+    ("highcontrast", "einvoice-system"),
     ("highcontrast", "user-manager"),
     ("dark", "api-gateway"),
     ("radical", "vuvannghiaCV"),

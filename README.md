@@ -4,7 +4,7 @@
 <!-- -->
 
 <a href="https://github.com/vuvannghiaCV/einvoice-system" target="_blank">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuvannghiaCV&repo=einvoice-system&theme=merko" alt="einvoice-system" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vuvannghiaCV&repo=einvoice-system&theme=highcontrast" alt="einvoice-system" />
 </a>
 
 <!-- -->
